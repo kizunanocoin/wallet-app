@@ -2,7 +2,7 @@
 
 platform :ios, '11.0'
 
-target 'KIZUNANO COIN' do
-	project 'KIZUNANO COIN.xcodeproj'
+target 'KIZUNANO WALLET' do
+	project 'KIZUNANO WALLET.xcodeproj'
 
 end

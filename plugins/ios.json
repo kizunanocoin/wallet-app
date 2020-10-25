@@ -7,10 +7,10 @@
     "files": {}
   },
   "installed_plugins": {
-    "cordova-plugin-whitelist": {
+    "cordova-plugin-android-permissions": {
       "PACKAGE_NAME": "com.kizunanocoin.wallet"
     },
-    "cordova-plugin-android-permissions": {
+    "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.kizunanocoin.wallet"
     }
   },

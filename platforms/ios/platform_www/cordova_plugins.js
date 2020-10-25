@@ -10,7 +10,7 @@ cordova.define('cordova/plugin_list', function(require, exports, module) {
     }
   ];
   module.exports.metadata = {
-    "cordova-plugin-whitelist": "1.3.4",
-    "cordova-plugin-android-permissions": "1.1.0"
+    "cordova-plugin-android-permissions": "1.1.0",
+    "cordova-plugin-whitelist": "1.3.4"
   };
 });
